@@ -1,5 +1,5 @@
 {
-  "name": "expresslambdacicd",
+  "name": "expresslambdacicdcruddynamodbgithubactions",
   "version": "1.0.0",
   "description": "Using Serverless Framework, AWS Lambda, DynamoDB & Github Action CI/CD",
   "main": "index.js",
